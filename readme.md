@@ -1,2 +1,2 @@
-Let's start learning data analsis.
+Let's start learning data analsis!
 
